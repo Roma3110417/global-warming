@@ -16,4 +16,4 @@
 
   
 
-Вот ссылка на самого бота: @white_bear_cub_bot
+Вот ссылка на самого бота: t.me/white_bear_cub_bot
